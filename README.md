@@ -8,6 +8,6 @@ Cloud Container Enumerator via HTTP response code
 * No API required
 
 # Usage
-![alt alias](https://github.com/mattiareggiani/CloudInt/blob/master/alias.png)
-![alt bucket](https://github.com/mattiareggiani/CloudInt/blob/master/bucket.png)
-![alt digitalOcean](https://github.com/mattiareggiani/CloudInt/blob/master/digitalOcean.PNG)
+<img src="https://github.com/mattiareggiani/CloudInt/blob/master/alias.png" height="600">
+<img src="https://github.com/mattiareggiani/CloudInt/blob/master/bucket.png" height="600">
+<img src="https://github.com/mattiareggiani/CloudInt/blob/master/digitalOcean.PNG" height="600">
